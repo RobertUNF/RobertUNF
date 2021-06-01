@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi 👋
 My name is Robert, I'm a 16 years old HTL Rennweg student
+
+### Skills
+•	Java
+•	JavaScript
+•	PHP
+•	HTML
+•	CSS
+•	libGDX
 <!--
 **RobertUNF/RobertUNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
