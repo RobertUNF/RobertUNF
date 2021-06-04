@@ -1,5 +1,5 @@
 ### Hi 👋
-My name is Robert, I'm a 16 years old HTL Rennweg student
+My name is Robert, I'm a 17 years old HTL Rennweg student
 
 ### Skills
 - Java
