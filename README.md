@@ -10,6 +10,7 @@ My name is Robert, I'm a 17 years old HTL Rennweg student
 - mySQL
 - libGDX
 - (C/C++ - Arduino)
+- Python
 <!--
 **RobertUNF/RobertUNF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
